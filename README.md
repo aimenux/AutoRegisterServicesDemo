@@ -1,3 +1,5 @@
+[![.NET](https://github.com/aimenux/AutoRegisterServicesDemo/actions/workflows/ci.yml/badge.svg)](https://github.com/aimenux/AutoRegisterServicesDemo/actions/workflows/ci.yml)
+
 # AutoRegisterServicesDemo
 ```
 Various ways for automatic registration of dependencies within an application
